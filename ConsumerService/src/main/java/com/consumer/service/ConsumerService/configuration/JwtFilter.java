@@ -40,7 +40,7 @@ public class JwtFilter extends GenericFilterBean {
             httpServletResponse.setStatus(HttpServletResponse.SC_OK);
             filterChain.doFilter(req,res);
         }
-        else{
+        else{//Allow Request With Token
             String userId = tokenConsumerService.getUserIdFromToken(token);
             System.out.println(userId+"----------------------------------------------------------");
             httpServletRequest.setAttribute("userId",userId);
