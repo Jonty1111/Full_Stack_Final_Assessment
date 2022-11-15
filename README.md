@@ -8,7 +8,8 @@
     Shop Service : 6084
 
 <b>Screenshot of Services in Eureka: </b>
-![image](https://user-images.githubusercontent.com/112845359/201833998-4f9a91cb-0a4a-4777-a643-732b80e16f11.png)
+![image](https://user-images.githubusercontent.com/112845359/201834084-9fe1fada-bb1a-46ef-8d90-80deb4e680fe.png)
+
 
 
 
