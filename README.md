@@ -28,8 +28,8 @@ ADMIN SERVICES:
     Method: POST
     Endpoint: http://localhost:6081/user/signup
     Payload:
-    { "username" : "Anuj", "password" : "1234",
-    "password_confirm" : "1234", "email": "anuj@gamil.com" }
+    { "username" : "jonty", "password" : "1234",
+    "password_confirm" : "1234", "email": "jonty@gamil.com" }
 
 
 
@@ -39,7 +39,7 @@ ADMIN SERVICES:
     Method: POST
     Endpoint: http://localhost:6081/user/login
     Payload:
-    { "username" : "Anuj", "password": "1234" }
+    { "username" : "jonty", "password": "1234" }
 
 
 
